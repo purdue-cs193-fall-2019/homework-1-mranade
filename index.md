@@ -4,3 +4,6 @@
   - Interesting topics
   - Cool presentations
   - Challenging concepts, but not hard
+
+
+theme: jekyll-theme-midnight
