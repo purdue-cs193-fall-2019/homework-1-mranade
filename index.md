@@ -6,4 +6,4 @@
   - Challenging concepts, but not hard
 
 
-theme: jekyll-theme-midnight
+
